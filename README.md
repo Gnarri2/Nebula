@@ -9,6 +9,7 @@ NebulaWeb is an official flagship of Nebula Services and Nebula Developer Labs. 
 ## Features
 
 - Stunning highly functional UI with multiple themes 
+- Good!
 - XOR/b64 Encrypts all traffic sent from Nebula
 - Hides your IP from sites
 - [List of officially supported sites](https://github.com/NebulaServices/Nebula/blob/main/docs/officially-supported-sites.md)
